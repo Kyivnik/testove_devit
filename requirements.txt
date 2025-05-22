@@ -1,4 +1,5 @@
 Django
+django-cors-headers
 djangorestframework
 psycopg2-binary
-drf-yasg2
+drf-yasg
